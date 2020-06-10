@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ArtWork/static/css/main.27d9ca89.chunk.css",
+    "main.js": "/ArtWork/static/js/main.3f34a60f.chunk.js",
+    "main.js.map": "/ArtWork/static/js/main.3f34a60f.chunk.js.map",
+    "runtime-main.js": "/ArtWork/static/js/runtime-main.983f538f.js",
+    "runtime-main.js.map": "/ArtWork/static/js/runtime-main.983f538f.js.map",
+    "static/js/2.0c9e5a36.chunk.js": "/ArtWork/static/js/2.0c9e5a36.chunk.js",
+    "static/js/2.0c9e5a36.chunk.js.map": "/ArtWork/static/js/2.0c9e5a36.chunk.js.map",
+    "index.html": "/ArtWork/index.html",
+    "precache-manifest.c392bd33310788829f051bb9b5581780.js": "/ArtWork/precache-manifest.c392bd33310788829f051bb9b5581780.js",
+    "service-worker.js": "/ArtWork/service-worker.js",
+    "static/css/main.27d9ca89.chunk.css.map": "/ArtWork/static/css/main.27d9ca89.chunk.css.map",
+    "static/js/2.0c9e5a36.chunk.js.LICENSE.txt": "/ArtWork/static/js/2.0c9e5a36.chunk.js.LICENSE.txt",
+    "static/media/budha-painting.jpg": "/ArtWork/static/media/budha-painting.a4dae53d.jpg",
+    "static/media/dasara-durgadevi.jpg": "/ArtWork/static/media/dasara-durgadevi.958395b7.jpg",
+    "static/media/guitar-island-sunset.jpg": "/ArtWork/static/media/guitar-island-sunset.59081d2e.jpg",
+    "static/media/joker-character.jpg": "/ArtWork/static/media/joker-character.6c96a61e.jpg",
+    "static/media/minion-cartoon.jpg": "/ArtWork/static/media/minion-cartoon.c3b54730.jpg",
+    "static/media/riverside-scenery.jpg": "/ArtWork/static/media/riverside-scenery.295262d4.jpg",
+    "static/media/santa-claus.jpg": "/ArtWork/static/media/santa-claus.23abc758.jpg",
+    "static/media/sunset-castle.jpg": "/ArtWork/static/media/sunset-castle.6d2be28a.jpg",
+    "static/media/valentines-day.jpg": "/ArtWork/static/media/valentines-day.5d77ace8.jpg",
+    "static/media/vinayaka-chavithi.jpg": "/ArtWork/static/media/vinayaka-chavithi.562d2f02.jpg",
+    "static/media/waterfall-scenary.jpg": "/ArtWork/static/media/waterfall-scenary.56ff712e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.983f538f.js",
+    "static/js/2.0c9e5a36.chunk.js",
+    "static/css/main.27d9ca89.chunk.css",
+    "static/js/main.3f34a60f.chunk.js"
+  ]
+}
